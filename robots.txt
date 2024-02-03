@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://shawn.github.io/sitemap.xml
